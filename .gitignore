@@ -1,1 +1,5 @@
 /db
+Updater.exe
+Updater.exe.config
+*.log
+*.bak
